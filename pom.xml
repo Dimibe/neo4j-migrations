@@ -55,6 +55,12 @@
 		</developer>
 	</developers>
 
+	<scm>
+		<connection>scm:git:git://github.com/michael-simons/neo4j-migrations.git</connection>
+		<developerConnection>scm:git:ssh://git@github.com/michael-simons/neo4j-migrations.git</developerConnection>
+		<url>https://github.com/michael-simons/neo4j-migrations</url>
+	</scm>
+
 	<modules>
 		<!--
 		When adding new modules, make sure that neither the explicit order here nor the order derived from module
